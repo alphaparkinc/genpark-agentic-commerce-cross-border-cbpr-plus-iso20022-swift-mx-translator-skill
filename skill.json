@@ -1,0 +1,16 @@
+{
+  "name": "genpark-agentic-commerce-cross-border-cbpr-plus-iso20022-swift-mx-translator-skill",
+  "version": "1.0.0",
+  "title": "Cross-Border CBPR+ SWIFT MT to ISO 20022 MX Translator Skill",
+  "category": "Agentic Commerce (Cross-Border Banking & SWIFT)",
+  "description": "Translates legacy SWIFT MT103/MT202 messages into CBPR+ compliant ISO 20022 pacs.008.001.08 XML, validating UETR, structured postal addresses, and charge bearer codes.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "translate_swift_mt_to_iso20022_mx"
+  ],
+  "dependencies": []
+}
